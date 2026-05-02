@@ -1,0 +1,27 @@
+body {
+  background: rgba(247, 5, 243, 0.163);
+  color:white;
+  text-align:center;
+}
+
+.box {
+  margin:100px auto;
+  width:300px;
+  background: rgb(126, 6, 126);
+  padding:20px;
+  border-radius:10px;
+}
+
+input, select, button {
+  margin:5px;
+  padding:10px;
+  width:90%;
+}
+
+button {
+  background:#f2e9e4;
+  color:rgb(75, 10, 30);
+  border:none;
+}
+
+
